@@ -99,13 +99,14 @@ Además, los eventos pueden exportarse en formato CSV.
 
 
 
-### Link Video del Proyecto:
+### Demostración:
+▶ Video de funcionamiento:
 
 https://youtu.be/c3ziUIjVpaA 
 
 
-### Autora
+### Información Académica
 
-Amanda Carolina Chindoy Muchavisoy
+Autora: Amanda Carolina Chindoy Muchavisoy
 
-Proyecto Final — Arquitectura de Computadores y Sistemas Operativos
+Proyecto desarrollado para la asignatura Arquitectura de Computadores y Sistemas Operativos.
