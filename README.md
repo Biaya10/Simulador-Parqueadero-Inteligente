@@ -14,7 +14,7 @@ Un simulador que demuestra conceptos fundamentales de Sistemas Operativos:
 ## Capturas de Pantalla
 
 ### Interfaz Principal
-<img width="1302" height="925" alt="interfaz_principal" src="https://github.com/user-attachments/assets/d35463ce-412d-42e1-bd42-1f1e6f3b372f" />
+<img width="1249" height="905" alt="interfaz_principal" src="https://github.com/user-attachments/assets/76e7adc6-52ae-4f42-9fe7-7b1ce1c83ed2" />
 
 ### Simulación en ejecución
 <img width="1233" height="888" alt="simulacion" src="https://github.com/user-attachments/assets/330c7331-959f-4662-ac87-6bb6690139c3" />
