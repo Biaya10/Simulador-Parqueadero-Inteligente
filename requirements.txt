@@ -1,0 +1,15 @@
+# Simulador de Parqueadero Inteligente
+# Solo usa la biblioteca estándar de Python — no requiere pip install
+#
+# Módulos utilizados:
+#   threading  — hilos y sincronización (Lock, Semaphore, Event)
+#   sqlite3    — base de datos embebida
+#   tkinter    — interfaz gráfica
+#   queue      — comunicación segura entre hilos y la GUI
+#   random     — tiempos de simulación aleatorios
+#   time       — sleep y marcas de tiempo
+#   datetime   — timestamps legibles
+#   csv        — exportación de logs
+#   os         — manejo de rutas
+#
+# Versión mínima recomendada: Python 3.8+
