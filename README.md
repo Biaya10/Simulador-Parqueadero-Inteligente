@@ -11,6 +11,14 @@ Un simulador que demuestra conceptos fundamentales de Sistemas Operativos:
 - **Race conditions:** Cómo evitarlas con exclusión mutua
 - **IPC:** Comunicación segura thread → GUI con `queue.Queue`
 
+## Capturas de Pantalla
+
+### Interfaz Principal
+<img width="1302" height="925" alt="interfaz_principal" src="https://github.com/user-attachments/assets/d35463ce-412d-42e1-bd42-1f1e6f3b372f" />
+
+### Simulación en ejecución
+<img width="1233" height="888" alt="simulacion" src="https://github.com/user-attachments/assets/330c7331-959f-4662-ac87-6bb6690139c3" />
+
 ## Contenido del Proyecto
 
 ```
